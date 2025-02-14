@@ -1,4 +1,4 @@
-# Pre-compiled Cpuminer for Userland:
+# Pre-compiled Cpuminer for Termux , Userland:
 This is a WIP repo for pre-compiled cpuminer(v23.15) binary with Userland and GCC(v11.4.0).
 
 # **`Disclaimer: I accept no warranties or liabilities on this repo. Do it at your own risk!!!`**
