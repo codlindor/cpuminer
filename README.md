@@ -1,15 +1,13 @@
 # Pre-compiled Cpuminer for Userland:
-This is a WIP repo for pre-compiled cpuminer(v23.15) binary with Userland(v23.09.13) and GCC(v11.4.0).
+This is a WIP repo for pre-compiled cpuminer(v23.15) binary with Userland and GCC(v11.4.0).
 
 # **`Disclaimer: I accept no warranties or liabilities on this repo. Do it at your own risk!!!`**
 
 # **`This is for ARMv8`**
 
 # Installation:
-1. Download & install latest .apk from Apkmirror or Google Play Store [Userland](https://www.apkmirror.com/apk/userland-technologies-incorporated/userland/userland-23-09-13-release/userland-linux-on-android-23-09-13-2-android-apk-download):
-```
-https://www.apkmirror.com
-```
+1. Download & install userland
+
 2. Open Userland app and install Ubuntu accept permissions, we will use minimal environment and terminal or CLI this can take a couple minutes...
 3. Get Ubuntu ready this can take a while:
 - Type `y` then enter key in any prompts!
@@ -26,7 +24,7 @@ chmod +x cpuminer start.sh
 ```
 # Usage:
 
-1. Edit your pool, address, worker name:
+1. Edit your pool, address, worker name, your algo, etc....:
 ```
 nano config.json
 ```
