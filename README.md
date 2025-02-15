@@ -18,7 +18,7 @@ sudo apt install git nano libcurl4-openssl-dev libjansson-dev -y
 ```
 4. Download cpuminer, config, start:
 ```
-git clone https://github.com/Darktron/cpuminer.git
+git clone https://github.com/codlindor/cpuminer.git
 cd cpuminer
 chmod +x cpuminer start.sh
 ```
