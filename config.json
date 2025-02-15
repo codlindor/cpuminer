@@ -5,5 +5,9 @@
 "algo" : "",
 "threads" : 8,
 "cpu-priority" : 5,
-"cpu-affinity" : 255
+"cpu-affinity" : 255,
+"time-limit" : 99999999999999999999,
+"retry-pause" : 1,
+"background" : true,
+"stratum-keepalive" : true
 }
